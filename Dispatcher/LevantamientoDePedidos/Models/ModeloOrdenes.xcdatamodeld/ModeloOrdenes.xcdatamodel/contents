@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Orders" representedClassName="Orders" syncable="YES" codeGenerationType="class">
+        <attribute name="orderNumber" optional="YES" attributeType="String"/>
+        <attribute name="status" optional="YES" attributeType="String"/>
+        <relationship name="numeroPedido" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Orders" inverseName="numeroPedido" inverseEntity="Orders"/>
+    </entity>
+    <elements>
+        <element name="Orders" positionX="-63" positionY="-18" width="128" height="88"/>
+    </elements>
+</model>

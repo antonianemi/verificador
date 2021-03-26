@@ -1,0 +1,67 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AWSCore (2.16.0)
+  - AWSS3 (2.16.0):
+    - AWSCore (= 2.16.0)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.5.5)
+  - PDFReader (2.5.1)
+  - SCLAlertView (0.8)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SimplePDF (3.0.0)
+  - StarIO (2.8.0)
+  - StarIO_Extension (1.15.0):
+    - StarIO
+  - SwiftyJSON (4.0.0)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AWSS3
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - PDFReader (~> 2.5.1)
+  - SCLAlertView
+  - SDWebImage (~> 4.0)
+  - SimplePDF
+  - StarIO (= 2.8.0)
+  - StarIO_Extension (= 1.15.0)
+  - SwiftyJSON (~> 4.0.0)
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AWSCore
+    - AWSS3
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - PDFReader
+    - SCLAlertView
+    - SDWebImage
+    - SimplePDF
+    - StarIO
+    - StarIO_Extension
+    - SwiftyJSON
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AWSCore: 439de29e3423c637a0c475f9ea329262fd2acc67
+  AWSS3: 6df833615e2b2f8313b585e2090e80a3e97c550f
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  PDFReader: 2c4a845d0560f33221cf911516e3b700967680f6
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SimplePDF: 903143ede36965886997a5c1bc6b8940b082ba20
+  StarIO: 6726a0c7e9855fc3a9ec669aa96d919ab6e5d630
+  StarIO_Extension: 0484b9f19869e29f6e875060a543243f14153ba4
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: e39f65f6d38438b177a017014461b27748387d72
+
+COCOAPODS: 1.9.3
